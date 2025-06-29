@@ -1,0 +1,11 @@
+The whole idea of the RU is combining a brokerage platform and news platform where gives user an unique experience about the trading.
+There will be no losing trader when the platform teaches trading to the users.
+The way of exploration to the users are way different, so that can be a better features for the platform.
+Providing free signals to the beginner traders and reason for those signals to understand the behaviour and the emotion of the markets.
+
+Base of the RU:
+1. Able to create a user account to maintain their choices.(Sign Up/Log in)
+2. This website is dedicated for both managing the client's portfolio and updates from the current the global news stream.
+3. At first, it must provide the news about global and political news about the markets and related to the streams which affects the markets.
+4. By having the data of the news and the trends of the markets, our software must predict the outcome of the market, to make the user profitable.
+5. Secondly about the brokerage platform;
